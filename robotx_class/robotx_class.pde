@@ -1,3 +1,8 @@
+/* 
+original from robots in 'Getting Started with Processing' by Casey Reas and Ben Fry
+Source code is available under the Creative Commons Attribution-ShareAlike License
+ cc by Shigeto R. Nishitani, 2019
+ */
 Robot myRobot1;
 Robot myRobot2;
 
