@@ -18,7 +18,16 @@ TODO: 使い方を書いてください．
 ## Code review
 
 ここにcodeの概要と，どのように作成したかを書いてください．
+引用を忘れずに．
+
 sampleをそれぞれのdirectoryに置いています．
+
+今見ている，README.mdはmark downで書いています．
+
+robotx_class/REAME.orgはorg-modeで書いています．コードどかも綺麗に表示されているでしょう．
+もちろんmark downでもcodeを綺麗に表示してくれます．
+
+綺麗にしたかったら，googleで調べてください．
 
 ## License
 
