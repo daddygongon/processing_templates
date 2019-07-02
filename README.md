@@ -54,8 +54,8 @@ rect(0, 0, 10, 10);
 ## License
 
 ここではサンプルとしてMITライセンスの表示をしています．Creative commonsとかLGPLでもOKです．
-[Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)や
-関連する記述はとても参考になります．
+[Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)は
+とても参考になります(だいぶその時...2013か...からは改訂されてるけど)．
 
 The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
