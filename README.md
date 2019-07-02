@@ -4,6 +4,8 @@ TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介�
 
 ## Installation
 
+TODO: この項目はclone, pushが終了したら消してください．
+
 githubでdaddygongon/processing_templatesをforkしてください．
 その後，
 ```
@@ -28,23 +30,30 @@ githubでdaddygongon/processing_templatesをforkしてください．
 
 ## Usage
 
-TODO: 使い方を書いてください．
+TODO: ここに使い方を書いてください．
 
 ## Code review
 
-ここにcodeの概要と，どのように作成したかを書いてください．
+TODO: ここにcodeの概要と，どのように作成したかを書いてください．
 引用を忘れずに．
 
 sampleをそれぞれのdirectoryに置いています．
 
 今見ている，README.mdはmark downで書いています．
 
-robotx_class/REAME.orgはorg-modeで書いています．コードどかも綺麗に表示されているでしょう．
-もちろんmark downでもcodeを綺麗に表示してくれます．
+robotx_class/REAME.orgはorg-modeで書いています．コードも綺麗にカラー表示されているでしょう．
 
-綺麗にしたかったら，googleで調べてください．
+もちろんmark downでもcodeを綺麗に表示できます．
+書き方は，googleで調べてください．
+
+``` java
+rect(0, 0, 10, 10);
+```
+なんかです．
 
 ## License
+
+ここではサンプルとしてMITライセンスの表示をしています．Creative commonsとかLGPLでもOKです．
 
 The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
