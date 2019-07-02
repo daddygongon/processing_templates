@@ -1,6 +1,6 @@
 #+OPTIONS: ^:{}
 #+STARTUP: indent nolineimages
-#+TITLE: class化
+#+TITLE: robotのclass化
 #+AUTHOR: Shigeto R. Nishitani
 #+EMAIL:     (concat "nishitani@kwansei.ac.jp")
 #+LANGUAGE:  jp
@@ -9,7 +9,8 @@
 
 #+SETUPFILE: ~/.emacs.d/org-mode/theme-readtheorg.setup
 
-* もっとも簡単なversion
+* Code review
+** もっとも簡単なversion
 もとは関数型のrobotとしましょう．
 #+caption: robot5_functionのhead部．
 #+begin_src cpp
@@ -80,7 +81,7 @@ class Robot {                              // step 1
 1. displayする．
 です．
 
-* classにする意義=よく似ているけど異なる振る舞い
+** classにする意義=よく似ているけど異なる振る舞い
 このような簡単な例をみると，その機能を実現するには
 functionで十分のような気がします．
 しかし，たくさんのrobotをつくって，
@@ -139,4 +140,10 @@ myRobot1もeasing機能をもっているのですが，
 
 あと，何を参考にしたかの引用を忘れないように．
 自分のcredit(license)とともにheadに書き込んでおいてください．
+
+
+* License and history
+The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT), 
+- based on the robots in 'Getting Started with Processing' by Casey Reas and Ben Fry,
+- and classifying by Shigeto R. Nishitani, 2019
 

@@ -34,8 +34,8 @@ TODO: ここに使い方を書いてください．
 
 ## Code review
 
-TODO: ここにcodeの概要と，どのように作成したかを書いてください．
-引用を忘れずに．
+TODO: ここにcodeの概要と，どのような意図で作成したかを書いてください．
+どこの誰のコードを基にして書いたかの引用を忘れずに．
 
 sampleをそれぞれのdirectoryに置いています．
 
@@ -54,6 +54,8 @@ rect(0, 0, 10, 10);
 ## License
 
 ここではサンプルとしてMITライセンスの表示をしています．Creative commonsとかLGPLでもOKです．
+[Githubのライセンシングを解説した記事](https://www.catch.jp/oss-license/2013/09/10/github/)や
+関連する記述はとても参考になります．
 
 The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
