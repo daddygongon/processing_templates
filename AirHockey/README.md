@@ -22,7 +22,9 @@ githubでdaddygongon/processing_templatesをforkしてcloneしてください．
 copy leftにしているので，ちゃんと引用して自由にお使いください．
 
 ## License
-The processing application is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT), 
+ Source code is available under the Creative Commons Attribution-ShareAlike License
+ cc by Shigeto R. Nishitani, 2015 
+
 
 
 
